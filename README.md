@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of noriods/auto-more.** Not for installation: use [Packagist](https://packagist.org/packages/noriods/auto-more) or the [upstream repository](https://github.com/noriods/automore).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/noriods-auto-more/tree/archive/v1.0.0) · License: `GPL-2.0` · Flarum: `^1.0.0`
+**5** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/noriods-auto-more/tree/archive/v1.0.0) · License: `GPL-2.0` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2018-05-10 | `^0.1.0-beta-7` | [Browse](https://github.com/flarchive/noriods-auto-more/tree/archive/v0.1.0) |
+| `0.2.0` | 2018-05-10 | `^0.1.0-beta-7` | [Browse](https://github.com/flarchive/noriods-auto-more/tree/archive/v0.2.0) |
+| `0.3.0` | 2019-01-10 | `^0.1.0-beta-8` | [Browse](https://github.com/flarchive/noriods-auto-more/tree/archive/v0.3.0) |
+| `0.3.1` | 2021-02-22 | `^0.1.0-beta-15` | [Browse](https://github.com/flarchive/noriods-auto-more/tree/archive/v0.3.1) |
+| `v1.0.0` | 2021-06-03 | `^1.0.0` | [Browse](https://github.com/flarchive/noriods-auto-more/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/noriods-auto-more.json](https://github.com/flarchive/archive-index/blob/main/packages/noriods-auto-more.json)
 
